@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/inspo/favorites-of-all-time/"}
 ---
 
+[[HOME PAGE\|home page]]
+
+
 [[Inspo/Starlight Brigade\|Starlight Brigade]]
 [[Inspo/DECEPTACON\|DECEPTACON]]
 [[Inspo/Waving Through a Window\|Waving Through a Window]]
