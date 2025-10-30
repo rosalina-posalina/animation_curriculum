@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lesson-plans/dailies/"}
+{"dg-publish":true,"permalink":"/lesson-plans/dailies/","tags":["gardenEntry"]}
 ---
 
 # UPDATE THIS ONE DUMBFUCK
