@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/"}
+{"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
 what about this dumbfuck? hey dubmcufkc. kill yotself >:(
