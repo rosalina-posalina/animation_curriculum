@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lesson-plans/dailies/"}
 ---
 
-# UPDATE THIS ONE DUMBFUCK
+
 
 [[Lesson plans/Lesson Navigation\|Lesson Navigation]]
 
