@@ -17,8 +17,7 @@ I particularly like animation in regards to storytelling and film, however it ca
 
 
 2. **Why is your topic important and relevant in 2025?**
-The animation industry is in a really bizarre place right now, thousands are becoming disillusioned with the monopolies of the animation world (Disney... Disney.) And are turning to [indie animation](obsidian://open?vault=Animation%20Curriculum&file=Inspo%2FFavorites%20of%20all%20time), particularly on youtube and other social media sites. This excites me greatly, as I've always wanted to launch my own pet projects to an audience without having to go through the art-student -> animation industry pipeline.
-
+The animation industry is in a really bizarre place right now, thousands are becoming disillusioned with the monopolies of the animation world (Disney... Disney.) And are turning to[[Inspo/Favorites of all time\| indie animation]], particularly on youtube and other social media sites. This excites me greatly, as I've always wanted to launch my own pet projects to an audience without having to go through the art-student -> animation industry pipeline. 
 Additionally, generative [[Essay/AI\|AI]] is a massive disruptor and one of the most controversial art debates of all time. In my personal belief, it's a monster that we as humans may have let grow too large to control. Ai is everywhere, and trying to be more everywhere. Art is a form of human expression, I truly believe ai images are not, and will never be art, no matter how much they attempt to replace us. No matter how much the industry gets bogged down by soulles ai attempts at creativity.
 This brings up many interesting debates to be explored!
 
