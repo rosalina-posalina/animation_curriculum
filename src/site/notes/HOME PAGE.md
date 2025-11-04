@@ -6,6 +6,7 @@
 ## [[Inspo/Favorites of all time\|Favorites of all time]]
 ## [[Essay/Essay Planning Nav\|Essay Planning Nav]]
 
+[[Lesson plans/Notes From Class\|Notes From Class]]
 
 
 Idea Generation
