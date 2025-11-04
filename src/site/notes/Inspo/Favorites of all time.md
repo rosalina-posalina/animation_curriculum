@@ -4,6 +4,8 @@
 
 [[HOME PAGE\|home page]]
 
+Each contains a short blurb plus standout frames!
+
 
 [[Inspo/Starlight Brigade\|Starlight Brigade]]
 [[Inspo/DECEPTACON\|DECEPTACON]]
