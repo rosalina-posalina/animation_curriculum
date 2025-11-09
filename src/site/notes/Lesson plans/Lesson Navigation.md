@@ -7,7 +7,7 @@
 ## [[Lesson plans/Illustrative Aspects\|Illustrative Aspects]]
 Illustrative aspects is the most thoroughly filled out segment of lessons so far. 
 
-## [[Lesson plans/Dailies\|Dailies]]
+## [[Lesson plans/Principles\|Principles]]
 Dailies has gifs for daily workshops I'd like to work on focusing on the 12 principles of animation
 
 ## [[Lesson plans/Studying the masters\|Studying the masters]]

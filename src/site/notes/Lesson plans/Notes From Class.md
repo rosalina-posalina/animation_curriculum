@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lesson-plans/notes-from-class/"}
 ---
 
-The animators handbook by tony white
+wThe animators handbook by tony white
 
 [[HOME PAGE\|home page]]
 
@@ -32,4 +32,4 @@ https://usmai-tu.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=01
 Book sources found by librarian!!
 
 
-![Pasted image 20251104151122.png](/img/user/Images/Pasted%20image%2020251104151122.png)
+![Pasted image 20251104151122.png](/img/user/Images/Pasted%20image%2020251104151122.png)![Pasted image 20251104151236.png](/img/user/Images/Pasted%20image%2020251104151236.png)![Pasted image 20251104151251.png](/img/user/Images/Pasted%20image%2020251104151251.png)![Pasted image 20251104151304.png](/img/user/Images/Pasted%20image%2020251104151304.png)

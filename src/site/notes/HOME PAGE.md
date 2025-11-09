@@ -5,7 +5,8 @@
 ## [[Lesson plans/Lesson Navigation\|Lesson Navigation]]
 ## [[Inspo/Favorites of all time\|Favorites of all time]]
 ## [[Essay/Essay Planning Nav\|Essay Planning Nav]]
-
+## [[My Work\|My Work]]
+# [[Works Cited\|Works Cited]]
 [[Lesson plans/Notes From Class\|Notes From Class]]
 
 
@@ -31,4 +32,4 @@ I want to learn how to (at the end of this, if i had infinite time) make my own 
 See [[Lesson plans/Illustrative Aspects\|illustrative aspects]] !!!
 
 5. Develop learning goals for the overall curriculum and learning goals for each module.
-Ough okay. DO THIS PART LATER STUPID DONT FORGET!!!
+Ough okay. DO THIS PART LATER DUMBDUMB DONT FORGET!!!

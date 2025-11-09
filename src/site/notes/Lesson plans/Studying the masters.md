@@ -4,8 +4,10 @@
 
 [[Lesson plans/Lesson Navigation\|Lesson Navigation]]
 
+With each "master" I'll go through pieces of their animation and analyze specific clips and the techniques they use
+
 ### PEOPLE
-JAMES BAXTER
+[[Lesson plans/MASTER STUDIES/JAMES BAXTER\|JAMES BAXTER]]
 WORTHIKIDS
 TONKIO PANTOJA
 
