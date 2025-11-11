@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lesson-plans/lesson-navigation/"}
 ---
 
-[[HOME PAGE\|home page]]
+d[[HOME PAGE\|home page]]
 
 ## [[Lesson plans/Illustrative Aspects\|Illustrative Aspects]]
 Illustrative aspects is the most thoroughly filled out segment of lessons so far. 
