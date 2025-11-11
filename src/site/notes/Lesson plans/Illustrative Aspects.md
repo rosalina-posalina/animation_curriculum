@@ -5,6 +5,9 @@
 
 [[Lesson plans/Lesson Navigation\|Lesson Navigation]]
 
+Official "Puss in Boots the Last Wish" art book
+Official "How To Train Your Dragon" art book
+Animators Handbook
 
 One workshop in each category: 
 
