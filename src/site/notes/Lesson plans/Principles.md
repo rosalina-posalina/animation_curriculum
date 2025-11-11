@@ -15,6 +15,7 @@ The Animators Survival Kit (Book: Richard Williams)
 
 With each gif, I aim to explain one of the twelve principles of animation, how they're used in context, and why they're important.
 
+GIRL ARE U EVEN UPDATING????
 ![webp.webp](/img/user/Gifs/webp.webp)
 ![webp.webp](/img/user/Gifs/webp.webp)
 ### Squash and stretch
