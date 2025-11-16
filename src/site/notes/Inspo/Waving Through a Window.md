@@ -7,6 +7,8 @@
 
 There's something about the deterioration in animation quality as the video goes on that reminds me everything starts from somewhere. Getting my work to look that polished has always been daunting, but the barely sketched storyboards it devolves into is somehow all the more inspiring than if it was fully completed
 
+The backgrounds in this short are ridiculously and immaculately detailed, the lighting and compositing are genuinely awe-inspiring and are in some scenes far more polished than even industry level productions. Sunbeams filtering through ruins, reflections in water, rain effects, and glares from beams of light are just some of the environmental details that come together to create such an amazing final product.
+
 
 ![Pasted image 20251029212835.png](/img/user/Images/Pasted%20image%2020251029212835.png)
 ![Pasted image 20251029212904.png](/img/user/Images/Pasted%20image%2020251029212904.png)
