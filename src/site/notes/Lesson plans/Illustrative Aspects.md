@@ -10,7 +10,7 @@ Official "How To Train Your Dragon" art book
 Animators Handbook
 
 
-One workshop in each category: 
+One workshop in each category: each category will have my explanation before reading/viewing my resource, and after. As well as an image of my own work in each category.
 
 ### Characters and character design
 https://graphicmama.com/blog/character-design-process/
