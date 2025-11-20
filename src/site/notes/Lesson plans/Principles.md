@@ -14,7 +14,7 @@ https://the12principles.tumblr.com/
 The Animators Survival Kit (Book: Richard Williams)
 
 With each gif, I aim to explain one of the twelve principles of animation, how they're used in context, and why they're important.
-
+(Warning! Gifs likely to display static images when viewing on computers and phones, the dev is currently working to resolve this issue)
 ### Squash and Stretch
 Squash and stretch gives an object volume, it can make something appear soft, bouncy or rigid. When the volume of the object stays consistent when using squash and stretch it gives the appearance or realism in animation, however, this can be exaggerated for more impact within the action. 
 Example: A ball drops from a high place, as it falls it stretches out slightly and when it lands it compresses before bouncing back up into its original shape.

@@ -5,10 +5,10 @@
 [[HOME PAGE\|home page]]
 
 ## [[Lesson plans/Illustrative Aspects\|Illustrative Aspects]]
-Illustrative aspects is the most thoroughly filled out segment of lessons so far. 
+Illustrative aspects is the most thoroughly filled out segment of lessons so far. Each segment contains a link to an article, and I will be directly studying, notetaking, and producing my own work from it.
 
 ## [[Lesson plans/Principles\|Principles]]
-Dailies has gifs for daily workshops I'd like to work on focusing on the 12 principles of animation
+Principles has gifs for daily workshops I'd like to work on focusing on the 12 principles of animation
 
 ## [[Lesson plans/Studying the masters\|Studying the masters]]
-The least filled out segment of the lessons so far, I'd like to work on master-studies (copying) my favorite artists and studying the processes throughout whatever means I can find, whether that be videos, books, and documentaries.
+Annotations directly on top of live animation (via videos) as well as notes, history and commentary on who I consider to be my personal animation heroes.
