@@ -18,6 +18,7 @@ Another moment highlighting his sheer range is a scene towards the finale of the
 
 
 
+<hr>
 
 ## Annotated Works
 Markings in red are annotations by me!

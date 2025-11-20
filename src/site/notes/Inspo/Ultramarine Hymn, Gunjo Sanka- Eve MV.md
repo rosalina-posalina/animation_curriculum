@@ -10,4 +10,6 @@ Sumn bout emotions. n friends and. being a little kid
 
 The combo of hypersimplistic characters with the most insanely intricate and beautiful backgrounds + effects, the animation itself is a rather low framerate but the direction is immaculate
 
+<hr>
+
 ![Pasted image 20251029214911.png](/img/user/Images/Pasted%20image%2020251029214911.png)![Pasted image 20251029214940.png](/img/user/Images/Pasted%20image%2020251029214940.png)![Pasted image 20251029215038.png](/img/user/Images/Pasted%20image%2020251029215038.png)![Pasted image 20251029215052.png](/img/user/Images/Pasted%20image%2020251029215052.png)![Pasted image 20251029215216.png](/img/user/Images/Pasted%20image%2020251029215216.png)

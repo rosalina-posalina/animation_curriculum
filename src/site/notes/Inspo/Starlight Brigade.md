@@ -10,4 +10,6 @@ Another beautiful and complete story told with no dialogue and only ~4 minutes o
 
 Starlight brigade does a fantastic job honoring the style of 80s and 90s anime. The lighting and effects in this short are eyecatching, clean, and well produced. The character design takes pre-existing band members and translates them beautifully into a fun cast which we as the audience is almost instantaneously endeared to.
 
+<hr>
+
 ![Pasted image 20251029211440.png](/img/user/Images/Pasted%20image%2020251029211440.png)![Pasted image 20251029211524.png](/img/user/Images/Pasted%20image%2020251029211524.png)![Pasted image 20251029211549.png](/img/user/Images/Pasted%20image%2020251029211549.png)![Pasted image 20251029211621.png](/img/user/Images/Pasted%20image%2020251029211621.png)![Pasted image 20251029211635.png](/img/user/Images/Pasted%20image%2020251029211635.png)![Pasted image 20251029211653.png](/img/user/Images/Pasted%20image%2020251029211653.png)
