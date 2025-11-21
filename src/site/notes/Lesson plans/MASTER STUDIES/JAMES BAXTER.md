@@ -10,12 +10,10 @@ Although his posts are fewer and further between, via his tumblr its clear that 
 
 
 One such particularly notable scene is Quasimodo scaling Notre Dame, in which Baxter manages to perfectly and smoothly capture the perspective of a rotating building by hand. Released in 1996,
-![](https://youtu.be/__vdob6IFeM?si=nrX_aHfbYFHUMph4)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__vdob6IFeM?si=cQE428OFeAx4SbnH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Another moment highlighting his sheer range is a scene towards the finale of the Cartoon Network show "Steven Universe" in which the main character Steven embraces a separated version of himself, while the character White Diamond observes them. Steven then proceeds to twirl himself around as the entire stage rotates, for the longest time I thought this was animated with CGI. (2019)
-![](https://youtu.be/KESNewqMyEs?si=TTht0f9vDft3j5Ya)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KESNewqMyEs?si=N_YyvWnZwohzJSdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <hr>
@@ -23,11 +21,9 @@ Another moment highlighting his sheer range is a scene towards the finale of the
 ## Annotated Works
 Markings in red are annotations by me!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WVP2Ptkyzkc?si=1Z4GV7FNe1oWF54o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-![](https://youtu.be/WVP2Ptkyzkc)
-
-![](https://www.youtube.com/watch?v=gzEqPF-H70o)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gzEqPF-H70o?si=HUtsjqHE6yeWwqdT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Additional notes on Baxter's animation:

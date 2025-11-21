@@ -16,5 +16,3 @@ The only way I've found to reliably display my annotated video work is by upload
 [[Lesson plans/MASTER STUDIES/TONIKO PANTOJA\|TONIKO PANTOJA]] A modern master of animation, offers a lot of online and digital courses. Industry standard education for free or cheap!
 
 [[Lesson plans/MASTER STUDIES/IAN WORTHINGTON\|IAN WORTHINGTON]] A personal favorite! His animations are some of the most innovate and charming pieces of work (in my opinion) on youtube right now!
-
-[[Lesson plans/MASTER STUDIES/GOBLEINS\|GOBLEINS]] Not an individual, but a prolific animation school ranked as the worlds leading school for five years in a row. Their campuses located in Paris France, and Annecy in the French Alps. 

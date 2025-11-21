@@ -5,7 +5,6 @@
 ## [[Lesson plans/Lesson Navigation\|Lesson Navigation]]
 ## [[Inspo/Favorites of all time\|Favorites of all time]]
 ## [[Essay/Essay Planning Nav\|Essay Planning Nav]]
-## [[My Work\|My Work]]
 # [[Works Cited\|Works Cited]]
 [[Lesson plans/Notes From Class\|Notes From Class]]
 
