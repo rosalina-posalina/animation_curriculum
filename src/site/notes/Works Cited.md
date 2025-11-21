@@ -44,6 +44,8 @@ Tyler Edlin. “Design Props like PRO.” _YouTube_, 28 Mar. 2025, www.youtube.c
 
 White, Tony. _The Animator’s Workbook : [Step-By-Step Techniques of Drawn Animation]_. New York, Ny, Watson-Guptill, 2007.
 
+Williams, Richard. _The Animator’s Survival Kit_. Faber & Faber, 7 Jan. 2002.
+
 Worthikids. “Wire.” _YouTube_, 1 Feb. 2021, www.youtube.com/watch?v=kGj_HkKhhSE.
 
 “Worthikids - YouTube.” _Www.youtube.com_, www.youtube.com/@Worthikids.
