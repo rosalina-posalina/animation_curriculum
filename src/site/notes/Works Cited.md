@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/works-cited/"}
 ---
 
+[[HOME PAGE\|home page]]
+
+
 
 AlanBeckerTutorials. “12 Principles of Animation (Official Full Series).” _YouTube_, 30 May 2017, www.youtube.com/watch?v=uDqjIdI4bF4.
 
