@@ -12,7 +12,7 @@ Alex Grigg // Animation for Anyone. “The BEST Way to Learn FX Animation?” _Y
 
 Amelia B. “DECEPTACON.” _YouTube_, 16 June 2022, www.youtube.com/watch?v=fLbJVxxvqBQ. Accessed 21 Nov. 2025.
 
-Boicheva, Al. “GraphicMama Blog.” _GraphicMama Blog_, 23 June 2021, graphicmama.com/blog/character-design-process/.
+**Boicheva, Al. “GraphicMama Blog.” _GraphicMama Blog_, 23 June 2021, graphicmama.com/blog/character-design-process/.**
 
 Cressida Cowell, and Tracey Miller-Zarneke. _The Art of How to Train Your Dragon_. New York, Newmarket Pr, 2010.
 
@@ -22,7 +22,7 @@ Hozartist. “LOSE YOUR FEAR to DRAW BACKGROUNDS #DrawLandscapes #ClipStudioTips
 
 James Baxter. “@Jbaxteranimator · Ockham’s Toothbrush.” _Tumblr_, 13 July 2013, www.tumblr.com/jbaxteranimator. Accessed 21 Nov. 2025.
 
-“James Baxter - YouTube.” _Www.youtube.com_, www.youtube.com/@jamesbaxter1236.
+**“James Baxter - YouTube.” _Www.youtube.com_, www.youtube.com/@jamesbaxter1236.**
 
 kdsketch. “MY 2D ANIMATION COMPOSITING PROCESS / HOW I MADE THIS.” _YouTube_, 19 Dec. 2021, www.youtube.com/watch?v=pdLN_7tA3OM. Accessed 27 Jan. 2025.
 
@@ -32,7 +32,7 @@ Pantoja, Toniko. “Toniko Pantoja.” _Toniko Pantoja_, www.tonikopantoja.com/.
 
 ---. “Toniko Pantoja.” _YouTube_, www.youtube.com/channel/UCRTRqkhrehrY9hJJcLVUeRQ. Accessed 8 Mar. 2025.
 
-Ramin Zahed. _The Art of Dreamworks Puss in Boots_. Cameron Books, 28 Mar. 2023.
+**Ramin Zahed. _The Art of Dreamworks Puss in Boots_. Cameron Books, 28 Mar. 2023.**
 
 RizaDraws. “How to Make Background for 2D Animation Stories - Ep. COMPOSITION.” _CLIP STUDIO TIPS_, 16 Apr. 2024, tips.clip-studio.com/en-us/articles/9227.
 
@@ -44,7 +44,7 @@ Tyler Edlin. “Design Props like PRO.” _YouTube_, 28 Mar. 2025, www.youtube.c
 
 White, Tony. _The Animator’s Workbook : [Step-By-Step Techniques of Drawn Animation]_. New York, Ny, Watson-Guptill, 2007.
 
-Williams, Richard. _The Animator’s Survival Kit_. Faber & Faber, 7 Jan. 2002.
+**Williams, Richard. _The Animator’s Survival Kit_. Faber & Faber, 7 Jan. 2002.**
 
 Worthikids. “Wire.” _YouTube_, 1 Feb. 2021, www.youtube.com/watch?v=kGj_HkKhhSE.
 
