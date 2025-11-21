@@ -10,7 +10,6 @@
 [[Lesson plans/Notes From Class\|Notes From Class]]
 
 
-Idea Generation
 (Links within text lead to other pages on this ((my)) website, its all interconnected
 
 1. **Begin by determining your topic and providing a brief summary**
